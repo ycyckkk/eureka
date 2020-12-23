@@ -374,7 +374,7 @@ public class DefaultEurekaClientConfig implements EurekaClientConfig {
 
     /*
      * (non-Javadoc)
-     *
+     * 获取服务列表
      * @see
      * com.netflix.discovery.EurekaClientConfig#getEurekaServerServiceUrls()
      */

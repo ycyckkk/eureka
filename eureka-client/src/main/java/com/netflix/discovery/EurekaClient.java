@@ -27,7 +27,7 @@ import com.netflix.discovery.shared.LookupService;
  * @author David Liu
  */
 @ImplementedBy(DiscoveryClient.class)
-public interface EurekaClient extends LookupService {
+    public interface EurekaClient extends LookupService {
 
     // ========================
     // getters for InstanceInfo
